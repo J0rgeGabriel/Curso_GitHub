@@ -1,1 +1,1 @@
- print("opa, bao??")
+ print("opa, blz?")
